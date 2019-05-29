@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.i(TAG, "onCreate: 第一次使用git");
+        Log.i(TAG, "onCreate: 第二次更新git");
 
     }
 
